@@ -1,4 +1,4 @@
-TECH CREW - TECH SESSION ON 8th Sept, 2018
+TECH CREW - Tech Session on 8th Sept, 2018
 
 # TwitterSentimentAnalysis-
 
